@@ -18,6 +18,7 @@ build/
 .classpath
 .project
 .settings
+.metadata
 
 # STS Project Files #
 
